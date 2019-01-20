@@ -561,7 +561,7 @@ var FlickrService = /** @class */ (function () {
         // private url: string = 'https://api.flickr.com/services/rest/?method=flickr.photos.getPopular&api_key=837f64c9370d6b08a97ff0cda27b5018&per_page =30&format=json&nojsoncallback=1&auth_token=e3073affa993da70';
         // private url: string = "https://api.flickr.com/services/rest/?method=flickr.photos.getPopular&api_key=d1ae3facd28313f19d9b7ff6cd7c1242&per_page=30&format=json&nojsoncallback=1&auth_token=72157704376838511-b65e9c585c0f7287&api_sig=1f776905317b8452265d2f2962a246c5";
         // private url: string = 'https://api.flickr.com/services/rest/?method=flickr.galleries.getPhotos&api_key=d1ae3facd28313f19d9b7ff6cd7c1242&gallery_id=72157705347519995&format=json&nojsoncallback=1&auth_token=72157704376838511-b65e9c585c0f7287&api_sig=4f005e9ba2b8075942d16d97cd98ae68';
-        this.url = 'https://api.flickr.com/services/rest/?method=flickr.galleries.getPhotos&api_key=aef9f4a49dcf1e7f4ed235f68cc92423&gallery_id=72157693718156901&per_page=&page=&format=json&nojsoncallback=1&auth_token=72157704432021101-d2e183d62fe5f77e';
+        this.url = 'https://api.flickr.com/services/rest/?method=flickr.galleries.getPhotos&api_key=bff7978c0d9f5efe8f06ce9efdab500a&gallery_id=72157693718156901&per_page=&page=&format=json&nojsoncallback=1&auth_token=72157675756582727-995d905daba57962';
     }
     FlickrService.prototype.invokeApi = function () {
         // let header = new HttpHeaders().set({'Content-Typr': 'application/json'})
